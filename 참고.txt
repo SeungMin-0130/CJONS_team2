@@ -2,3 +2,4 @@ https://www.youtube.com/watch?v=671BsKl8d0E
 https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/blob/master/lecture_notes/ResNet.pdf
 https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice
 https://www.youtube.com/watch?v=jqNCdjOB15s&t=550s
+https://honeycomb-makers.tistory.com/3
